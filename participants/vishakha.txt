@@ -1,0 +1,4 @@
+Hello,
+This is vishakha. A New intern(Software Engineer Trainee) from jellyfish.
+I am trying to learn the new technologies such as git and github.
+Thank You 
